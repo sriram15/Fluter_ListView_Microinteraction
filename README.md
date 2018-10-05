@@ -1,6 +1,6 @@
 # Flutter - Microinterations - Horizontal Listview
 
-![recording](recording.gif)
+![recording](ezgif.com-optimize.gif)
 
 
 # Design
