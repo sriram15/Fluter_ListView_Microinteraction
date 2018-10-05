@@ -1,8 +1,11 @@
-# swipe_anim
+# Flutter - Microinterations - Horizontal Listview
 
-A new Flutter project.
+![recording](recording.gif)
 
-## Getting Started
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+# Design
+
+Design of “The music interface” by Alisa (https://dribbble.com/Alisa_33) for Redscarf(https://dribbble.com/red_scarf)
+
+This is an implemenation of the microinteraction of the listview. If you want to learn more follow my blog post in Medium
+
